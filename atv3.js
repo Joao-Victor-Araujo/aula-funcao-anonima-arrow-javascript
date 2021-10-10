@@ -31,8 +31,8 @@ b)Retornar o Resultado.
 c)Chamar a função e exibir o resultado no console.
 */
 
-((parms) => {
+((stringRecebida) => {
     for(let i = 0; i <= 37; i++){
-        console.log(parms)
+        console.log(stringRecebida)
     }
-})("meu nome");
+})("qlq coisa");
